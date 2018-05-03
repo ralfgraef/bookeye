@@ -81,13 +81,23 @@ function playGame () {
         input.value=""
       }
       break
+
     case "geh nach osten":
+    if (mapLocation==8 || mapLocation ==5 || mapLocation == 2) {
+      gameMessage = blockedPathMessages[1]
+      input.value=""
+    } else if (mapLocation == 7) {
       mapLocation += 1
       input.value=""
       action = ""
       document.getElementById('input').disabled = true
       document.getElementById('buttonGame').disabled = true
       setTimeout(onGameOver, 10000)
+    } else {
+      mapLocation += 1
+      input.value=""
+      action = ""
+    }
       break 
 
     case "geh nach süden":
