@@ -1,0 +1,37 @@
+Titel: Der verfluchte Scanner: Das Bookeye des Grauens
+
+
+Raumsystem:
+|----------|----------|----------|
+|          |          |          |
+| 0 Kantine| 1 Bib    | 2 GRB    |
+|          |          |          |
+|----------|----------|----------|
+|          |          |          |
+| 3 Theke  | 4 FES    | 5 Scan   |
+|          |          |          |
+|----------|----------|----------|
+|          |          |          |
+|  6 Turm  | 7 MaxL.  | 8 Tumult |
+|          |          |          |
+|----------|----------|----------|
+
+
+Spielfigur beginnt an Haltestelle Max-Löbner-Strasse(7). Nach Norden gehts zur FES, 
+nach Westen ein seltsamer Turm, im Osten Geschrei und Tumult.
+Nach Süden geht nicht.
+
+"Geh nach Osten": Spielfigur ist an Haltestelle Olof-Palme-Allee(8). Eine Tür einer abfahrt-
+bereiten Bahn schliesst nicht, da ein Fahrgast die Lichtschranke blockiert. Du nimmst an der lebhaften Diskussion
+zwischen Fahrpersonal und Fahrgästen teil und gehst heute nicht mehr arbeiten ---> Game Over
+
+"Geh nach Westen": Spielfigur steht vor einem seltsamen Turm(6). Das gesamte Gelände sieht verwildert und verlassen aus, 
+es ist vollends mit einer meterdicken Rosenhecke umschlossen, die auf den angrenzenden Mauern weitergewandert ist und fast 
+den gesamten Komplex überwuchert hat. An der Tür hängt ein arg ramponierter Briefkasten.
+"Untersuch Briefkasten": Du findest eine Handreichung...
+"Nimm Handreichung": Handreichung=true
+Nach Norden geht nicht.
+Nach Süden geht nicht. 
+
+"Geh nach Osten": 
+
